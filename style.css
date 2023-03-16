@@ -1,0 +1,58 @@
+body {
+    font-family: sans-serif;
+}
+header b {
+    color: darkblue;
+    font-size: 15px;
+} 
+header a {
+    border-radius: 3px;
+    border: 3px solid black;
+    margin: 15px;
+    background-color: grey;
+    color: white;
+}
+h1 {
+    text-align: center;
+    color: black;
+    border: 3px solid black;
+}
+footer {
+    background-color: black;
+    border: 10px solid grey;
+}
+footer p {
+    color: white;
+    text-align: center;
+
+}
+
+nav {
+    margin: 10px
+}
+nav a {
+    margin: 25px;
+    border-radius: 10px;
+    border: 3px solid darkblue;
+    color: darkblue;
+    padding: 5px;
+    text-decoration: none;
+    
+
+}
+.ohellnah p{
+    background-color: cadetblue;
+    margin: 15px;
+    border: 5px solid black;
+    border-radius: 10px;
+    padding: 5;
+}
+h2 {
+    color: blue
+}
+main img{
+    text-decoration: none;
+    border: 3px solid blue;
+    border-radius: 10px;
+
+}
